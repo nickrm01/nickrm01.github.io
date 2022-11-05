@@ -1,5 +1,5 @@
 body {
-    background: yellow;
+    background: white;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -7,14 +7,14 @@ body {
     display: flex;
     padding: 10px;
     margin: 10px;
-    background: burlywood;
+    background: #B9F54E;
 }
 
 .assignment img {
     height: 300px; 
     width: 300px;
     margin: 10px;
-    border: 4px solid #20B2AA;
+    border: 4px solid #FE4633;
 }
 
 h1 { 
@@ -24,5 +24,5 @@ h1 {
 
 a {
     text-decoration: none;
-    color: #20B2AA;
+    color: #FE4633;
 }
