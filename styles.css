@@ -8,6 +8,7 @@ body {
     padding: 10px;
     margin: 10px;
     background: #B9F54E;
+    border - radius: 5px;
 }
 
 .assignment img {
@@ -18,7 +19,7 @@ body {
 }
 
 .assignment img: hover{
-    border: 4px solid #FE4633;
+    border: 4px dashed #FE4633;
 }
 
 h1 { 
