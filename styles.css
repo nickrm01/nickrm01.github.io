@@ -20,3 +20,8 @@ h1 {
     color: blue;
     text-align:center;
 }
+
+a {
+    text-decoration: none;
+    color: #20B2AA;
+}
