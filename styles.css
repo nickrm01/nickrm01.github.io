@@ -8,7 +8,7 @@ body {
     padding: 10px;
     margin: 10px;
     background: #B9F54E;
-    border - radius: 5px;
+    border-radius: 5px;
 }
 
 .assignment img {
@@ -29,7 +29,7 @@ h1 {
 
 a {
     text-decoration: none;
-    color: #blue;
+    color: blue;
 }
 
 a:hover {
