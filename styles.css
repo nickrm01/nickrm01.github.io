@@ -22,8 +22,8 @@ body {
     width: 300px;
     margin: 10px;
     border: 4px dashed #FFF;
-    display:block;
-    margin:auto;
+    display: block;
+    margin: auto;
 }
 
 .assignment img:hover {
